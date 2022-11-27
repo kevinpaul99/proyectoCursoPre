@@ -24,3 +24,4 @@ console.log(price);
 console.log("Precio final del auto con IVA y matricula:");
 console.log(pricefiva);
 //hola
+console.log("hello world");
