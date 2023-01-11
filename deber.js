@@ -1,4 +1,4 @@
-console.log("Caracteristicas de un Nissan 350Z")
+console.log("Caracteristicas de un Nissan 350Z");
 const na="Nissan 350Z";
 const aa="2008";
 const vm="250 km/h";
