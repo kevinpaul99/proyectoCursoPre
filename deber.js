@@ -25,3 +25,4 @@ console.log("Precio final del auto con IVA y matricula:");
 console.log(pricefiva);
 //hola
 console.log("hello world");
+console.log("primer hola desde vs code");
